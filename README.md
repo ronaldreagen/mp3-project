@@ -1,4 +1,4 @@
-# Apple Music-Inspired Web Music Player# 🎵 Apple Music-Inspired Web Music Player
+# 🎵 Apple Music-Inspired Web Music Player
 
 This project is a **web-based music player** with a modern interface and synchronized lyrics, inspired by the Apple Music design. Built using **HTML**, **CSS**, and **JavaScript**, this player allows you to play songs, view track info, and highlight lyrics in real-time.
 
